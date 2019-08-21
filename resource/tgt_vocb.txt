@@ -1,0 +1,1 @@
+{1: 'o', 2: 'b-loc', 3: 'i-time', 4: 'b-org', 5: 'i-crime', 6: 'b-per', 7: 'i-org', 8: 'b-time', 9: 'b-role', 10: 'b-crime', 11: 'i-per', 12: 'i-law', 13: 'i-loc', 14: 'i-role', 15: 'b-law'}
